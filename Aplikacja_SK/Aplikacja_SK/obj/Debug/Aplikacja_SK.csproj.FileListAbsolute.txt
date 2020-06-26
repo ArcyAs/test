@@ -1,0 +1,10 @@
+C:\Users\seril\source\repos\Aplikacja_SK\Aplikacja_SK\bin\Debug\Aplikacja_SK.exe.config
+C:\Users\seril\source\repos\Aplikacja_SK\Aplikacja_SK\bin\Debug\Aplikacja_SK.exe
+C:\Users\seril\source\repos\Aplikacja_SK\Aplikacja_SK\bin\Debug\Aplikacja_SK.pdb
+C:\Users\seril\source\repos\Aplikacja_SK\Aplikacja_SK\obj\Debug\Aplikacja_SK.csprojAssemblyReference.cache
+C:\Users\seril\source\repos\Aplikacja_SK\Aplikacja_SK\obj\Debug\Aplikacja_SK.Form1.resources
+C:\Users\seril\source\repos\Aplikacja_SK\Aplikacja_SK\obj\Debug\Aplikacja_SK.Properties.Resources.resources
+C:\Users\seril\source\repos\Aplikacja_SK\Aplikacja_SK\obj\Debug\Aplikacja_SK.csproj.GenerateResource.cache
+C:\Users\seril\source\repos\Aplikacja_SK\Aplikacja_SK\obj\Debug\Aplikacja_SK.csproj.CoreCompileInputs.cache
+C:\Users\seril\source\repos\Aplikacja_SK\Aplikacja_SK\obj\Debug\Aplikacja_SK.exe
+C:\Users\seril\source\repos\Aplikacja_SK\Aplikacja_SK\obj\Debug\Aplikacja_SK.pdb
